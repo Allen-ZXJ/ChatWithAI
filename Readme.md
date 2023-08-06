@@ -7,7 +7,7 @@ https://github.com/Allen-ZXJ/image/blob/main/kindsImage/assets.png?raw=true
 里面存放Authorization = Api key 和 OpenAI-Organization=organization的键值对
 
 https://github.com/Allen-ZXJ/image/blob/main/kindsImage/properties.png?raw=true
-
+注意将Api key和 OpenAI-Organization 换成自己的
 
 
 
